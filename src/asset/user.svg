@@ -1,0 +1,11 @@
+<svg width="180" height="256" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule=" nonzero" fill=" none" stroke-miterlimit="10" stroke-linejoin=" miter" stroke-linecap=" butt" stroke-dasharray=" none" stroke-width="0" stroke=" none" transform="translate(1.40659 1.40659) scale(2.81 2.81)">
+   <path id="svg_2" fill-rule=" nonzero" fill="#f08100" stroke-miterlimit="10" stroke-linejoin=" miter" stroke-dasharray=" none" stroke=" none" stroke-linecap=" butt" d="m31.651,40.05054c-9.34,0 -16.939,-7.599 -16.939,-16.939l0,-6.171c0,-9.341 7.599,-16.94 16.939,-16.94c9.341,0 16.939,7.599 16.939,16.939l0,6.171c0,9.341 -7.598,16.94 -16.939,16.94z"/>
+   <path id="svg_3" fill-rule=" nonzero" fill="#f08100" stroke-miterlimit="10" stroke-linejoin=" miter" stroke-dasharray=" none" stroke=" none" stroke-linecap=" butt" d="m55.79,90.00054l-48.277,0c-4.143,0 -7.513,-3.37 -7.513,-7.513l0,-14.56c0,-11.157 5.701,-21.278 15.25,-27.074c0.745,-0.451 1.694,-0.37 2.35,0.2c3.91,3.398 8.9,5.27 14.052,5.27c5.151,0 10.142,-1.872 14.053,-5.27c0.657,-0.57 1.606,-0.65 2.35,-0.2c9.546,5.795 15.246,15.917 15.246,27.074l0,14.561c0,4.142 -3.37,7.512 -7.511,7.512z"/>
+  </g>
+  <path id="svg_4" d="m239,128.33333" opacity="NaN" stroke="#000" fill="#f08100"/>
+ </g>
+</svg>

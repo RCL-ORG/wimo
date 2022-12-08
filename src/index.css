@@ -1,8 +1,8 @@
 :root {
 
-  --color-main: #f48631;
+  --color-main: #f08100;
   --color-complementary: #2F9FF4;
-  --color-shade: #C28B13;
+  --color-shade: #ededed;
   --color-light: #ffffff;
   --color-dark: #4D4D4D;
   --color-darkest: #101318;
@@ -13,6 +13,7 @@
 body {
   margin: 0;
   padding: 0;
+  background: var(--color-shade);
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

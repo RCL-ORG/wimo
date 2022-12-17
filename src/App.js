@@ -1,20 +1,20 @@
-import './App.css';
-import NavBar from './structural-components/navbar/Navbar';
+import './App.css'
+import Navbar from './structural-components/navbar/Navbar'
 
-function App() {
+const App = () => {
   return (
     <div className="container">
-      <div className="header">
-
-        <NavBar />
-
-      </div>
-      <div className="left-sidebar">LSB</div>
-      <div className="hero">Hero</div>
-      <div className="right-sidebar">RSB</div>
-      <div className="footer">Footer</div>
+      <nav className="header">
+        <Navbar />
+      </nav>
+      <main className="central">
+        <aside className="lside">LSIDE</aside>
+        <div className="hero">HERO</div>
+        <aside className="rside">RSIDE</aside>
+      </main>
+      <footer className="footer">FOOTER</footer>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
